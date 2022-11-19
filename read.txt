@@ -10,3 +10,5 @@
    - spring.datasource.password = pokemon   
 3. importar en sts o eclipce 
    - ejecutar  
+4. abrir documento pokemon 
+   - abrir soapui
