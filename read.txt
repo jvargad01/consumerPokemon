@@ -12,3 +12,4 @@
    - ejecutar  
 4. abrir documento pokemon 
    - abrir soapui
+   - en el cual estan todos los ejecutivos.
