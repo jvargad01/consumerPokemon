@@ -1,0 +1,12 @@
+--
+-- Servicio de consumer Pokemon
+--
+
+1.- Instalar la BD en mySql 
+   - ejecular el sql que esta en la carpeta /files/logpokemon.sql
+   - tener instalado el mysql
+2. cambiar el pwd en el archivo /src/main/resources/application.propierties
+   - spring.datasource.username = pokemon
+   - spring.datasource.password = pokemon   
+3. importar en sts o eclipce 
+   - ejecutar  
